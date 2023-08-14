@@ -1,23 +1,12 @@
- <Horiseon-optimazation>
+ # Horiseon-Optimazation
 
 ## Description
 
-Added semantic elements to the HTML to accurately describe the purpose of the element and the type of content that is inside them. Consequently making it more readable for other developers.
+Semantic elements in HTML are tags that provide meaning to the structure of a web page. These elements help search engines and assistive technologies understand the content better. The elements are used to define the introductory content of a page as nav bar, header, body, footer.
 
-## Installation
+## Deployed Site
 
-N/A
+![Screenshot of Deployed Website](assets/images/DeployedSite.png)
 
-## Usage
+[Live Demo Link](https://fabioesilveira.github.io/Horiseon-Optimazation/)
 
-To use Horiseon Optimization, you can review the notes in each section.For suggestions on what type of marketing you're looking for, open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel should open either below or to the side of the webpage in the browser. 
-
-# Credits
-
-N/A
-
-## License
-
-Please refer to the license in the repo
-
----
